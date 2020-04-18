@@ -1,0 +1,24 @@
+.mg-b-5 {
+	margin-bottom: 5px;
+}
+.mg-b-10 {
+	margin-bottom: 10px;
+}
+.mg-b-15 {
+	margin-bottom: 15px;
+}
+.mg-b-20 {
+	margin-bottom: 20px;
+}
+.text-c {
+	text-align: center;
+}
+.text-r {
+	text-align: right;
+}
+.text-l {
+	text-align: left;
+}
+.border-r {
+	border-radius: 50%;
+}
